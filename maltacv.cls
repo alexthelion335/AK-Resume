@@ -128,6 +128,16 @@
         \definecolor{AccentBody}{HTML}{291720}
         \definecolor{Primary}{HTML}{E87D20}
       }
+      {blue_gold}{
+        % University of Akron colors
+        \definecolor{AccentBody}{HTML}{070C72}
+        \definecolor{Primary}{HTML}{9D9362}
+      }
+      {blue_gold2}{
+        % University of Akron colors 2
+        \definecolor{AccentBody}{HTML}{9D9362}
+        \definecolor{Primary}{HTML}{070C72}
+      }
       {blue_claret}{
         % Coolcolors prussian blue + claret
         \definecolor{AccentBody}{HTML}{002642}
